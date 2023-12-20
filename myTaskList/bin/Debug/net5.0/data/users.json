@@ -1,0 +1,55 @@
+[
+    { "Id": 1,
+        "UserName": "a",
+        "Password": "a",
+        "TaskManager": true
+    },
+    {
+        "Id": 2,
+        "UserName": "Dan",
+        "Password": "dang",
+        "TaskManager": false
+    },
+    {
+        "Id": 9,
+        "UserName": "Tamar",
+        "Password": "t123",
+        "TaskManager": false
+    },
+    {
+        "Id": 10,
+        "UserName": "Noa",
+        "Password": "1223",
+        "TaskManager": false
+    },
+    {
+        "Id": 11,
+        "UserName": "Leah",
+        "Password": "23",
+        "TaskManager": false
+    },
+    {
+        "Id": 12,
+        "UserName": "Ayala",
+        "Password": "23345",
+        "TaskManager": false
+    },
+    {
+        "Id": 13,
+        "UserName": "Shira",
+        "Password": "676",
+        "TaskManager": false
+    },
+    {
+        "Id": 14,
+        "UserName": "Avi",
+        "Password": "56788",
+        "TaskManager": false
+    },
+    {
+        "Id": 15,
+        "UserName": "Yossi",
+        "Password": "5646",
+        "TaskManager": false
+    }
+]

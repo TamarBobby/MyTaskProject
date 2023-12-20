@@ -1,0 +1,78 @@
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\appsettings.json
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\data\taskList.json
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\data\users.json
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Core.exe
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Core.deps.json
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Core.runtimeconfig.json
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Core.runtimeconfig.dev.json
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Core.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\ref\Core.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Core.pdb
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Karambolo.Extensions.Logging.File.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.AssemblyInfo.cs
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\staticwebassets\Core.StaticWebAssets.Manifest.cache
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\staticwebassets\Core.StaticWebAssets.xml
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\scopedcss\bundle\Core.styles.css
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.RazorTargetAssemblyInfo.cache
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.csproj.CopyComplete
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\ref\Core.dll
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.pdb
+Z:\B\בובי תמר\cdgfd\myTaskList\obj\Debug\net5.0\Core.genruntimeconfig.cache
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\appsettings.json
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\data\taskList.json
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\data\users.json
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Core.exe
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Core.deps.json
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Core.runtimeconfig.json
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Core.runtimeconfig.dev.json
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Core.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\ref\Core.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Core.pdb
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Karambolo.Extensions.Logging.File.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.AssemblyInfo.cs
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\staticwebassets\Core.StaticWebAssets.Manifest.cache
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\staticwebassets\Core.StaticWebAssets.xml
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\scopedcss\bundle\Core.styles.css
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.RazorTargetAssemblyInfo.cache
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.csproj.CopyComplete
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\ref\Core.dll
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.pdb
+Z:\B\דז'לדוב לאה\Core\פרויקט גמר\myTaskList\obj\Debug\net5.0\Core.genruntimeconfig.cache

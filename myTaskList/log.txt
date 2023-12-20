@@ -1,0 +1,246 @@
+/taskManager.POST started at 2023-12-06 16:37:04.558
+/taskManager.POST ended at 196 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:37:04.785
+/taskListControllers.GET ended at 71 ms. UserId: unknown
+/user.GET started at 2023-12-06 16:37:09.174
+/user.GET ended at 5 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:49:16.877
+/taskListControllers.GET ended at 5 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 16:50:28.460
+/taskManager.POST ended at 215 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:50:28.704
+/taskListControllers.GET ended at 73 ms. UserId: unknown
+/user.GET started at 2023-12-06 16:50:33.830
+/user.GET ended at 6 ms. UserId: unknown
+/user/GetMyUser.GET started at 2023-12-06 16:50:44.607
+/user/GetMyUser.GET ended at 4 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:53:00.633
+/taskListControllers.GET ended at 4 ms. UserId: unknown
+/user.GET started at 2023-12-06 16:53:06.359
+/user.GET ended at 3 ms. UserId: unknown
+/user/.DELETE started at 2023-12-06 16:53:14.686
+/user/.DELETE ended at 12 ms. UserId: unknown
+/user.GET started at 2023-12-06 16:53:14.704
+/user.GET ended at 2 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 16:54:00.367
+/taskListControllers.POST ended at 30 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:54:00.404
+/taskListControllers.GET ended at 2 ms. UserId: unknown
+/taskListControllers/6.PUT started at 2023-12-06 16:54:31.815
+/taskListControllers/6.PUT ended at 10 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:54:31.831
+/taskListControllers.GET ended at 2 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:54:48.450
+/taskListControllers.GET ended at 3 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 16:55:05.751
+/taskManager.POST ended at 7 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 16:55:26.927
+/taskManager.POST ended at 4 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:55:26.959
+/taskListControllers.GET ended at 3 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 16:55:33.375
+/taskListControllers.POST ended at 7 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:55:33.389
+/taskListControllers.GET ended at 2 ms. UserId: unknown
+/taskListControllers/7.PUT started at 2023-12-06 16:55:57.711
+/taskListControllers/7.PUT ended at 6 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:55:57.723
+/taskListControllers.GET ended at 2 ms. UserId: unknown
+/user.GET started at 2023-12-06 16:56:28.242
+/user.GET ended at 4 ms. UserId: unknown
+/user/GetMyUser.GET started at 2023-12-06 16:56:30.849
+/user/GetMyUser.GET ended at 3 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 16:58:05.076
+/taskManager.POST ended at 192 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:58:05.295
+/taskListControllers.GET ended at 67 ms. UserId: unknown
+/user/GetMyUser.GET started at 2023-12-06 16:58:09.622
+/user/GetMyUser.GET ended at 7 ms. UserId: unknown
+/user.GET started at 2023-12-06 16:58:13.582
+/user.GET ended at 4 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 16:58:54.384
+/taskManager.POST ended at 8 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 16:58:54.419
+/taskListControllers.GET ended at 9 ms. UserId: unknown
+/user.GET started at 2023-12-06 16:58:56.735
+/user.GET ended at 4 ms. UserId: unknown
+/user/GetMyUser.GET started at 2023-12-06 16:59:00.569
+/user/GetMyUser.GET ended at 3 ms. UserId: unknown
+/taskListControllers/.GET started at 2023-12-06 17:03:15.586
+/taskListControllers/.GET ended at 3 ms. UserId: unknown
+/taskListControllers/4.GET started at 2023-12-06 17:03:30.642
+/taskListControllers/4.GET ended at 9 ms. UserId: unknown
+/taskListControllers/1.GET started at 2023-12-06 17:03:40.059
+/taskListControllers/1.GET ended at 3 ms. UserId: unknown
+/taskListControllers/1.GET started at 2023-12-06 17:03:44.738
+/taskListControllers/1.GET ended at 3 ms. UserId: unknown
+/taskListControllers/4.GET started at 2023-12-06 17:03:55.179
+/taskListControllers/4.GET ended at 4 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 17:04:07.570
+/taskManager.POST ended at 4 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:04:07.610
+/taskListControllers.GET ended at 4 ms. UserId: unknown
+/taskListControllers/1.GET started at 2023-12-06 17:04:10.014
+/taskListControllers/1.GET ended at 3 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:04:14.219
+/user.GET ended at 3 ms. UserId: unknown
+/taskListControllers/1.GET started at 2023-12-06 17:04:19.027
+/taskListControllers/1.GET ended at 4 ms. UserId: unknown
+/taskListControllers/4.GET started at 2023-12-06 17:04:24.635
+/taskListControllers/4.GET ended at 3 ms. UserId: unknown
+/taskListControllers/10.GET started at 2023-12-06 17:04:31.339
+/taskListControllers/10.GET ended at 3 ms. UserId: unknown
+/taskListControllers/3.GET started at 2023-12-06 17:04:48.996
+/taskListControllers/3.GET ended at 2 ms. UserId: unknown
+/taskListControllers/3.GET started at 2023-12-06 17:04:57.300
+/taskListControllers/3.GET ended at 3 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:05:02.208
+/taskListControllers.GET ended at 3 ms. UserId: unknown
+/taskListControllers/3.GET started at 2023-12-06 17:05:04.685
+/taskListControllers/3.GET ended at 3 ms. UserId: unknown
+/taskListControllers/7.GET started at 2023-12-06 17:05:10.797
+/taskListControllers/7.GET ended at 3 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:05:45.808
+/taskListControllers.GET ended at 3 ms. UserId: unknown
+/taskListControllers/6.GET started at 2023-12-06 17:05:50.774
+/taskListControllers/6.GET ended at 3 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:03.470
+/user.GET ended at 2 ms. UserId: unknown
+/user/.DELETE started at 2023-12-06 17:06:07.789
+/user/.DELETE ended at 10 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:07.805
+/user.GET ended at 2 ms. UserId: unknown
+/user/.DELETE started at 2023-12-06 17:06:08.477
+/user/.DELETE ended at 7 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:08.489
+/user.GET ended at 3 ms. UserId: unknown
+/user/.DELETE started at 2023-12-06 17:06:09.829
+/user/.DELETE ended at 6 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:09.842
+/user.GET ended at 3 ms. UserId: unknown
+/user/.DELETE started at 2023-12-06 17:06:12.485
+/user/.DELETE ended at 7 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:12.497
+/user.GET ended at 2 ms. UserId: unknown
+/user/.DELETE started at 2023-12-06 17:06:13.269
+/user/.DELETE ended at 7 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:13.282
+/user.GET ended at 2 ms. UserId: unknown
+/user.POST started at 2023-12-06 17:06:32.926
+/user.POST ended at 25 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:32.956
+/user.GET ended at 2 ms. UserId: unknown
+/user.POST started at 2023-12-06 17:06:46.166
+/user.POST ended at 6 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:46.176
+/user.GET ended at 2 ms. UserId: unknown
+/user.POST started at 2023-12-06 17:06:57.494
+/user.POST ended at 19 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:06:57.517
+/user.GET ended at 2 ms. UserId: unknown
+/user.POST started at 2023-12-06 17:07:09.727
+/user.POST ended at 7 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:07:09.737
+/user.GET ended at 3 ms. UserId: unknown
+/user.POST started at 2023-12-06 17:07:22.599
+/user.POST ended at 6 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:07:22.609
+/user.GET ended at 3 ms. UserId: unknown
+/user.POST started at 2023-12-06 17:07:41.759
+/user.POST ended at 6 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:07:41.769
+/user.GET ended at 3 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:09:02.142
+/taskListControllers.GET ended at 3 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:09:03.858
+/user.GET ended at 3 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 17:09:25.423
+/taskManager.POST ended at 542 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 17:09:30.251
+/taskManager.POST ended at 4 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 17:10:33.998
+/taskManager.POST ended at 228 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:10:34.275
+/taskListControllers.GET ended at 65 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:10:37.259
+/user.GET ended at 7 ms. UserId: unknown
+/taskListControllers/8.PUT started at 2023-12-06 17:10:49.715
+/taskListControllers/8.PUT ended at 13 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:10:49.735
+/taskListControllers.GET ended at 2 ms. UserId: unknown
+/taskListControllers/8.PUT started at 2023-12-06 17:10:53.411
+/taskListControllers/8.PUT ended at 7 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:10:53.424
+/taskListControllers.GET ended at 2 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 17:14:28.115
+/taskManager.POST ended at 212 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:14:28.373
+/taskListControllers.GET ended at 65 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:14:31.080
+/user.GET ended at 7 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 17:15:08.264
+/taskManager.POST ended at 4 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:15:08.293
+/taskListControllers.GET ended at 3 ms. UserId: unknown
+/user.GET started at 2023-12-06 17:15:13.520
+/user.GET ended at 4 ms. UserId: unknown
+/user/GetMyUser.GET started at 2023-12-06 17:15:15.912
+/user/GetMyUser.GET ended at 4 ms. UserId: unknown
+/taskListControllers/10.GET started at 2023-12-06 17:15:48.570
+/taskListControllers/10.GET ended at 8 ms. UserId: unknown
+/taskListControllers/12.GET started at 2023-12-06 17:16:02.793
+/taskListControllers/12.GET ended at 3 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 17:22:28.761
+/taskManager.POST ended at 184 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-06 17:22:28.988
+/taskListControllers.GET ended at 63 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:23:05.440
+/taskListControllers.POST ended at 6 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:26:03.185
+/taskListControllers.POST ended at 3 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:27:57.423
+/taskListControllers.POST ended at 3 ms. UserId: unknown
+/taskManager.POST started at 2023-12-06 17:28:15.697
+/taskManager.POST ended at 7 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:29:40.916
+/taskListControllers.POST ended at 27 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:32:39.487
+/taskListControllers.POST ended at 8 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:33:17.765
+/taskListControllers.POST ended at 7 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:36:41.246
+/taskListControllers.POST ended at 26 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:38:53.175
+/taskListControllers.POST ended at 7 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-06 17:39:45.885
+/taskListControllers.POST ended at 7 ms. UserId: unknown
+/favicon.ico.GET started at 2023-12-06 17:44:59.592
+/favicon.ico.GET ended at 53 ms. UserId: unknown
+/favicon.ico.GET started at 2023-12-20 13:14:05.746
+/favicon.ico.GET ended at 242 ms. UserId: unknown
+/taskManager.POST started at 2023-12-20 13:24:46.390
+/taskManager.POST ended at 547 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-20 13:25:20.308
+/taskListControllers.POST ended at 9 ms. UserId: unknown
+/taskManager.POST started at 2023-12-20 13:25:44.510
+/taskManager.POST ended at 20 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-20 13:26:18.603
+/taskListControllers.POST ended at 96 ms. UserId: unknown
+/favicon.ico.GET started at 2023-12-20 13:35:32.717
+/favicon.ico.GET ended at 8 ms. UserId: unknown
+/taskManager.POST started at 2023-12-20 13:35:39.282
+/taskManager.POST ended at 5 ms. UserId: unknown
+/taskListControllers.GET started at 2023-12-20 13:35:39.343
+/taskListControllers.GET ended at 5 ms. UserId: unknown
+/favicon.ico.GET started at 2023-12-20 13:36:15.276
+/favicon.ico.GET ended at 2 ms. UserId: unknown
+/taskManager.POST started at 2023-12-20 14:15:23.734
+/taskManager.POST ended at 6 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-20 14:16:04.085
+/taskListControllers.POST ended at 12 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-20 14:29:02.033
+/taskListControllers.POST ended at 32 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-20 14:29:25.394
+/taskListControllers.POST ended at 42 ms. UserId: unknown
+/taskListControllers.POST started at 2023-12-20 14:30:00.331
+/taskListControllers.POST ended at 7 ms. UserId: unknown
